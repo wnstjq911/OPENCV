@@ -430,5 +430,5 @@ void draw(Mat cover_image2)
 }
 void point()
 {
-
+	printf("hello, world!!!\n");
 }
